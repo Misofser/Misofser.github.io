@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development on too many tabs, too little time</title>
+    <link>https://overthinkingoutloud.net/tags/software-development/</link>
+    <description>Recent content in Software Development on too many tabs, too little time</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Sep 2025 10:18:45 +0400</lastBuildDate>
+    <atom:link href="https://overthinkingoutloud.net/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review of Shape Up Stop Running in Circles and Ship Work that Matters: Key Insights</title>
+      <link>https://overthinkingoutloud.net/post/shape-up/</link>
+      <pubDate>Tue, 16 Sep 2025 10:18:45 +0400</pubDate>
+      <guid>https://overthinkingoutloud.net/post/shape-up/</guid>
+      <description>&lt;p&gt;Not long ago, I finished reading &lt;em&gt;Shape Up Stop Running in Circles and Ship Work that Matters&lt;/em&gt; by Ryan Singer.&lt;/p&gt;&#xA;&lt;p&gt;The book teaches how to shape work and run projects effectively. I like that the book is full of concrete examples showing how 37signals works on real projects. It’s enjoyable to read because you can see how things actually happened. It&amp;rsquo;s not too long and not overly detailed.&lt;/p&gt;&#xA;&lt;p&gt;I want to share some of the concepts described in the book that I liked.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
