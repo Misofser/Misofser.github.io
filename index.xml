@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>too many tabs, too little time</title>
-    <link>https://overthinkingoutloud.net/</link>
-    <description>Recent content on too many tabs, too little time</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 18:10:40 +0400</lastBuildDate>
-    <atom:link href="https://overthinkingoutloud.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Tiny Tip for Beginner Developers</title>
-      <link>https://overthinkingoutloud.net/post/tiny-tip-for-beginner-developers/</link>
-      <pubDate>Tue, 17 Feb 2026 18:10:40 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/post/tiny-tip-for-beginner-developers/</guid>
-      <description>&lt;p&gt;The process of applying for jobs can actually become a source of inspiration for a blog post.&lt;/p&gt;&#xA;&lt;p&gt;While filling out a job application, I came across a question that went something like this:&#xA;&lt;em&gt;&amp;ldquo;What’s one lesson for new developers that often goes unmentioned?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;That question really made me think. I gave a short answer at the time, but here I’d like to share a more detailed response.&lt;/p&gt;&#xA;&lt;p&gt;Let’s get started!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Book Review of Built to Last by Jim Collins and Jerry I. Porras</title>
-      <link>https://overthinkingoutloud.net/post/built-to-last/</link>
-      <pubDate>Sat, 06 Dec 2025 14:26:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/post/built-to-last/</guid>
-      <description>&lt;p&gt;Have you ever thought about what made a visionary company truly visionary, and what sets it apart from slightly less successful competitors?&lt;/p&gt;&#xA;&lt;p&gt;Honestly, I’m not into those “10 steps to guaranteed success” books - you know, the ones that insist that waking up at 5 AM and believing in yourself is the secret to solving all of life’s problems. But &lt;em&gt;Build to Last by Jim Collins and Jerry I. Porras&lt;/em&gt; was recommended to me by a person whose opinion I really value, and I didn’t regret reading it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review of Shape Up Stop Running in Circles and Ship Work that Matters: Key Insights</title>
-      <link>https://overthinkingoutloud.net/post/shape-up/</link>
-      <pubDate>Tue, 16 Sep 2025 10:18:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/post/shape-up/</guid>
-      <description>&lt;p&gt;Not long ago, I finished reading &lt;em&gt;Shape Up Stop Running in Circles and Ship Work that Matters&lt;/em&gt; by Ryan Singer.&lt;/p&gt;&#xA;&lt;p&gt;The book teaches how to shape work and run projects effectively. I like that the book is full of concrete examples showing how 37signals works on real projects. It’s enjoyable to read because you can see how things actually happened. It&amp;rsquo;s not too long and not overly detailed.&lt;/p&gt;&#xA;&lt;p&gt;I want to share some of the concepts described in the book that I liked.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How can thinking like an artist help you with UI?</title>
-      <link>https://overthinkingoutloud.net/post/thinking-like-artist/</link>
-      <pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/post/thinking-like-artist/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;If some of you have studied art academically, whether it&amp;rsquo;s through art school or a university degree, you may know that most art disciplines are grouped into three main areas: &lt;strong&gt;drawing&lt;/strong&gt;, where students learn to work with tone and shading; &lt;strong&gt;fine art&lt;/strong&gt;, where we focus on color theory; and finally, &lt;strong&gt;composition&lt;/strong&gt;, which is what we&amp;rsquo;ll focus on today.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;So, what exactly is composition?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I believe it’s the most complex and crucial discipline in art. It’s not just about how skilled you are in shading or how masterfully you apply paint. Composition is about how you think and how you guide the viewer’s eye through your work.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>too many tabs, too little time</title>
+		<link>https://overthinkingoutloud.net/</link>
+		<description>Recent content on too many tabs, too little time</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Feb 2026 18:10:40 +0400</lastBuildDate>
+		
+			<atom:link href="https://overthinkingoutloud.net/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A Tiny Tip for Beginner Developers</title>
+				<link>https://overthinkingoutloud.net/post/tiny-tip-for-beginner-developers/</link>
+				<pubDate>Tue, 17 Feb 2026 18:10:40 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/post/tiny-tip-for-beginner-developers/</guid>
+				<description>&lt;p&gt;The process of applying for jobs can actually become a source of inspiration for a blog post.&lt;/p&gt;&#xA;&lt;p&gt;While filling out a job application, I came across a question that went something like this:&#xA;&lt;em&gt;&amp;ldquo;What’s one lesson for new developers that often goes unmentioned?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;That question really made me think. I gave a short answer at the time, but here I’d like to share a more detailed response.&lt;/p&gt;&#xA;&lt;p&gt;Let’s get started!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Book Review of Built to Last by Jim Collins and Jerry I. Porras</title>
+				<link>https://overthinkingoutloud.net/post/built-to-last/</link>
+				<pubDate>Sat, 06 Dec 2025 14:26:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/post/built-to-last/</guid>
+				<description>&lt;p&gt;Have you ever thought about what made a visionary company truly visionary, and what sets it apart from slightly less successful competitors?&lt;/p&gt;&#xA;&lt;p&gt;Honestly, I’m not into those “10 steps to guaranteed success” books - you know, the ones that insist that waking up at 5 AM and believing in yourself is the secret to solving all of life’s problems. But &lt;em&gt;Build to Last by Jim Collins and Jerry I. Porras&lt;/em&gt; was recommended to me by a person whose opinion I really value, and I didn’t regret reading it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Review of Shape Up Stop Running in Circles and Ship Work that Matters: Key Insights</title>
+				<link>https://overthinkingoutloud.net/post/shape-up/</link>
+				<pubDate>Tue, 16 Sep 2025 10:18:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/post/shape-up/</guid>
+				<description>&lt;p&gt;Not long ago, I finished reading &lt;em&gt;Shape Up Stop Running in Circles and Ship Work that Matters&lt;/em&gt; by Ryan Singer.&lt;/p&gt;&#xA;&lt;p&gt;The book teaches how to shape work and run projects effectively. I like that the book is full of concrete examples showing how 37signals works on real projects. It’s enjoyable to read because you can see how things actually happened. It&amp;rsquo;s not too long and not overly detailed.&lt;/p&gt;&#xA;&lt;p&gt;I want to share some of the concepts described in the book that I liked.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How can thinking like an artist help you with UI?</title>
+				<link>https://overthinkingoutloud.net/post/thinking-like-artist/</link>
+				<pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/post/thinking-like-artist/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;If some of you have studied art academically, whether it&amp;rsquo;s through art school or a university degree, you may know that most art disciplines are grouped into three main areas: &lt;strong&gt;drawing&lt;/strong&gt;, where students learn to work with tone and shading; &lt;strong&gt;fine art&lt;/strong&gt;, where we focus on color theory; and finally, &lt;strong&gt;composition&lt;/strong&gt;, which is what we&amp;rsquo;ll focus on today.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;So, what exactly is composition?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I believe it’s the most complex and crucial discipline in art. It’s not just about how skilled you are in shading or how masterfully you apply paint. Composition is about how you think and how you guide the viewer’s eye through your work.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

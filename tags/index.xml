@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on too many tabs, too little time</title>
-    <link>https://overthinkingoutloud.net/tags/</link>
-    <description>Recent content in Tags on too many tabs, too little time</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 18:10:40 +0400</lastBuildDate>
-    <atom:link href="https://overthinkingoutloud.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Code Review</title>
-      <link>https://overthinkingoutloud.net/tags/code-review/</link>
-      <pubDate>Tue, 17 Feb 2026 18:10:40 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/tags/code-review/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Development</title>
-      <link>https://overthinkingoutloud.net/tags/software-development/</link>
-      <pubDate>Tue, 17 Feb 2026 18:10:40 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/tags/software-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Book Review</title>
-      <link>https://overthinkingoutloud.net/tags/book-review/</link>
-      <pubDate>Sat, 06 Dec 2025 14:26:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/tags/book-review/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Management</title>
-      <link>https://overthinkingoutloud.net/tags/management/</link>
-      <pubDate>Sat, 06 Dec 2025 14:26:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/tags/management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Art</title>
-      <link>https://overthinkingoutloud.net/tags/art/</link>
-      <pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/tags/art/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>UI</title>
-      <link>https://overthinkingoutloud.net/tags/ui/</link>
-      <pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/tags/ui/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Design</title>
-      <link>https://overthinkingoutloud.net/tags/web-design/</link>
-      <pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
-      <guid>https://overthinkingoutloud.net/tags/web-design/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on too many tabs, too little time</title>
+		<link>https://overthinkingoutloud.net/tags/</link>
+		<description>Recent content in Tags on too many tabs, too little time</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Feb 2026 18:10:40 +0400</lastBuildDate>
+		
+			<atom:link href="https://overthinkingoutloud.net/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Code Review</title>
+				<link>https://overthinkingoutloud.net/tags/code-review/</link>
+				<pubDate>Tue, 17 Feb 2026 18:10:40 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/tags/code-review/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Software Development</title>
+				<link>https://overthinkingoutloud.net/tags/software-development/</link>
+				<pubDate>Tue, 17 Feb 2026 18:10:40 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/tags/software-development/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Book Review</title>
+				<link>https://overthinkingoutloud.net/tags/book-review/</link>
+				<pubDate>Sat, 06 Dec 2025 14:26:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/tags/book-review/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Management</title>
+				<link>https://overthinkingoutloud.net/tags/management/</link>
+				<pubDate>Sat, 06 Dec 2025 14:26:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/tags/management/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Art</title>
+				<link>https://overthinkingoutloud.net/tags/art/</link>
+				<pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/tags/art/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>UI</title>
+				<link>https://overthinkingoutloud.net/tags/ui/</link>
+				<pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/tags/ui/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Web Design</title>
+				<link>https://overthinkingoutloud.net/tags/web-design/</link>
+				<pubDate>Sun, 15 Jun 2025 10:18:45 +0400</pubDate>
+				<guid>https://overthinkingoutloud.net/tags/web-design/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
